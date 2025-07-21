@@ -56,4 +56,4 @@ This project reflects my ability to apply analytical thinking across multiple to
 - Scenario planning and pricing strategy  
 - SQL querying and dashboard development
 
-This end-to-end project highlights the kind of commercial and data-driven insight I aim to bring to roles in trading, optimisation, or economic consultancy.
+
