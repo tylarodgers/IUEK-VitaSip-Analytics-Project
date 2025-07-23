@@ -5,7 +5,7 @@ This project was completed during the **IEUK Finance, Professional Services & Co
 Although the original brief did not require a specific tool, I used **Excel** as the most efficient way to clean, analyse, and present insights. Following the internship, I independently extended the project using **SQL** and **Tableau** to deepen my understanding and showcase additional skills in querying, segmentation, and interactive visualisation.
 
 📌 **Key Deliverables & Tools**
-- **Excel** – Dashboarding, KPI tables, scenario comparison (Section 2.6)
+- **Excel** – Dashboarding, KPI tables (Section 2.6)
 - **SQL (SQLite)** – Query-based analysis and segmentation (post-internship)
 - **Tableau** – Interactive dashboard for sales and customer insights (post-internship)
 - **Word/PDF** – Final report including data visuals and recommendations
@@ -25,7 +25,7 @@ Although the original brief did not require a specific tool, I used **Excel** as
 | `README.md`                       | This summary file                                                           |
 
 ⚠️ **Note:**  
-**Section 2.6** of the  main project report was added **after** the internship to demonstrate advanced Excel capabilities. It includes a scenario-based pricing model and an interactive dashboard not required in the original brief.
+**Section 2.6** of the  main project report was added **after** the internship to demonstrate Excel capabilities.
 
 ---
 
